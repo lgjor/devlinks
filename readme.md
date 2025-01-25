@@ -1,7 +1,7 @@
 <h1 align="center"> DevLinks </h1>
 
 <p align="center">
-Projeto desenvolvido a partir do curso Discover da <a href="https://www.rocketseat.com.br/" target="_blank">Rocketseat</a>a. <br/>
+Projeto desenvolvido a partir do curso Discover da <a href="https://www.rocketseat.com.br/" target="_blank">Rocketseat</a><br/>
 </p>
 
 <p align="center">
