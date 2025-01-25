@@ -120,6 +120,7 @@ ul {
 
   padding: 24px 0;
   text-align-last: center;
+  justify-content: center;
 }
 
 ul li a {
