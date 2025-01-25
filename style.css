@@ -119,6 +119,7 @@ ul {
   gap: 16px;
 
   padding: 24px 0;
+  text-align-last: center;
 }
 
 ul li a {
