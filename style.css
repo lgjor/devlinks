@@ -184,11 +184,11 @@ footer {
 /* media queries */
 @media (min-width: 700px) {
   :root {
-    --bg-url: url(./assets/bg-desktop.jpg) no-repeat top center/cover;
+    --bg-url: url(./assets/bg-desktop.jpg);
   }
 
   .dark {
-    --bg-url: url(./assets/bg-desktop-dark.jpg) no-repeat top center/cover;
+    --bg-url: url(./assets/bg-desktop-dark.jpg);
   }
 }
 
