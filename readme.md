@@ -18,7 +18,9 @@ Projeto desenvolvido a partir do curso Discover da <a href="https://www.rocketse
 <br>
 
 <p align="center">
- <img alt="Projeto de links pessoais" src="./github/preview.jpg" width="100%">
+  <a href="https://lgjor.github.io/devlinks/" target="_blank">
+ <img src="./github/preview.jpg" alt="Projeto de links pessoais" width="100%">
+ </a>
 </p>
 
 ## 🚀 Tecnologias
