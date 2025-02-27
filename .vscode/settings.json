@@ -2,13 +2,15 @@
   // editor
   "editor.wordWrap": "on",
   "editor.fontSize": 18,
-  "editor.lineHeight": 30,
+  "editor.lineHeight": 1.6,
   "editor.tabSize": 2,
   "editor.bracketPairColorization.enabled": true,
   "editor.guides.bracketPairs": true,
   "editor.minimap.enabled": false,
   "editor.formatOnSave": true,
   "editor.formatOnPaste": true,
+  "editor.glyphMargin": false,
+  "editor.wordwarp": "on",
   "files.autoSave": "afterDelay",
 
   // explorer
