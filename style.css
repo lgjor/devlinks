@@ -159,7 +159,7 @@ ul li a:hover {
   align-items: center;
   justify-content: center;
 
-  gap: 8px;
+  gap: 4px;
   padding: 24px 0;
   width: 100%;
 
@@ -170,7 +170,7 @@ ul li a:hover {
 
 /* Aqui é onde você aumenta o ícone de fato */
 #social-links a ion-icon {
-  font-size: 24px; /* Aumente este valor conforme seu gosto (ex: 32px) */
+  font-size: 18px; /* Aumente este valor conforme seu gosto (ex: 32px) */
 }
 
 #social-links ion-icon {
